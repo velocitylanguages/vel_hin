@@ -16349,7 +16349,37 @@
       "hindi": "कठिन रास्ते, संभलकर कदम, मजबूत दिल।",
       "category": "Strength",
       "generated_at": "2026-08-09T13:52:03.022594"
+    },
+    {
+      "english": "My voice is steady, right now.",
+      "hindi": "मेरी आवाज़ स्थिर है, अभी।",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T16:36:10.285591"
+    },
+    {
+      "english": "I breathe calmly, then answer.",
+      "hindi": "मैं शांति से सांस लेता/लेती हूँ, फिर जवाब देता/देती हूँ।",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T16:36:10.285598"
+    },
+    {
+      "english": "I can handle this, slowly and clearly.",
+      "hindi": "मैं इसे संभाल सकता/सकती हूँ, धीरे और साफ़।",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T16:36:10.285600"
+    },
+    {
+      "english": "Today, I speak without rushing.",
+      "hindi": "आज, मैं बिना जल्दी किए बोलता/बोलती हूँ।",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T16:36:10.285601"
+    },
+    {
+      "english": "I learn in daylight, not in panic.",
+      "hindi": "मैं सीखता/सीखती हूँ, घबराहट में नहीं।",
+      "category": "Confidence",
+      "generated_at": "2026-08-09T16:36:10.285602"
     }
   ],
-  "last_updated": "2026-08-09T13:52:03.022595"
+  "last_updated": "2026-08-09T16:36:10.285604"
 }
