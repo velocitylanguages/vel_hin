@@ -17159,7 +17159,37 @@
       "hindi": "मैं अपना डेस्क साफ करता, खुशी चुपके से आती",
       "category": "Joy",
       "generated_at": "2026-08-14T19:51:02.771815"
+    },
+    {
+      "english": "I plan my day, then act softly.",
+      "hindi": "मैं अपना दिन बनाता हूँ, फिर धीरे चलती हूँ।",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T22:21:27.563627"
+    },
+    {
+      "english": "My purpose wakes me up early, calmly.",
+      "hindi": "मेरा उद्देश्य मुझे जल्दी जगाता है, शांति से।",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T22:21:27.563638"
+    },
+    {
+      "english": "I choose one task, like a lighthouse.",
+      "hindi": "मैं एक काम चुनता हूँ, जैसे दीपस्तंभ।",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T22:21:27.563640"
+    },
+    {
+      "english": "When doubt arrives, I breathe and listen.",
+      "hindi": "जब शक आता है, मैं सांस लेता हूँ, सुनता हूँ।",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T22:21:27.563641"
+    },
+    {
+      "english": "I learn today, so tomorrow feels lighter.",
+      "hindi": "मैं आज सीखता हूँ, ताकि कल हल्का लगे।",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T22:21:27.563642"
     }
   ],
-  "last_updated": "2026-08-14T19:51:02.771817"
+  "last_updated": "2026-08-14T22:21:27.563644"
 }
