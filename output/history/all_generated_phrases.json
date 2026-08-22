@@ -18209,7 +18209,37 @@
       "hindi": "गलतियाँ संदेश देती हैं, रोकने का संकेत नहीं।",
       "category": "Confidence",
       "generated_at": "2026-08-22T02:16:15.746062"
+    },
+    {
+      "english": "Breathe slow, let thoughts drift away",
+      "hindi": "धीरे सांस लो, विचार बह जाएँ",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-22T13:33:37.965431"
+    },
+    {
+      "english": "Pause now, your heart will soften",
+      "hindi": "अभी रुक जाओ, दिल नरम होगा",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-22T13:33:37.965443"
+    },
+    {
+      "english": "Drink tea, feel worry cool down",
+      "hindi": "चाय पीओ, चिंता ठंडी हो जाए",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-22T13:33:37.965444"
+    },
+    {
+      "english": "Look at sky, your mind clears",
+      "hindi": "आकाश देखो, मन साफ हो",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-22T13:33:37.965445"
+    },
+    {
+      "english": "Hands quiet, breathe, and listen inside",
+      "hindi": "हाथ शांत, सांस लो, अंदर सुनो",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-22T13:33:37.965446"
     }
   ],
-  "last_updated": "2026-08-22T02:16:15.746064"
+  "last_updated": "2026-08-22T13:33:37.965448"
 }
