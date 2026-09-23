@@ -22979,7 +22979,37 @@
       "hindi": "हर सुबह, मैं अपना अगला लक्ष्य बोता हूँ",
       "category": "Purpose",
       "generated_at": "2026-09-23T00:00:40.408396"
+    },
+    {
+      "english": "My voice is steady, I speak slowly.",
+      "hindi": "मेरी आवाज़ स्थिर है, मैं धीरे बोलता/बोलती हूँ।",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T05:37:32.533996"
+    },
+    {
+      "english": "Today I ask one question, calmly.",
+      "hindi": "आज मैं एक सवाल पूछता/पूछती हूँ, शांति से।",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T05:37:32.534010"
+    },
+    {
+      "english": "I pause first, then I choose words.",
+      "hindi": "मैं पहले रुकता/रुकती हूँ, फिर शब्द चुनता/चुनती हूँ।",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T05:37:32.534013"
+    },
+    {
+      "english": "Even mistakes teach me, I notice them.",
+      "hindi": "गलतियाँ भी मुझे सिखाती हैं, मैं उन्हें देखता/देखती हूँ।",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T05:37:32.534014"
+    },
+    {
+      "english": "I’m learning out loud, no hiding.",
+      "hindi": "मैं ज़ोर से सीखता/सीखती हूँ, छुपता/छुपती नहीं।",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T05:37:32.534015"
     }
   ],
-  "last_updated": "2026-09-23T00:00:40.408398"
+  "last_updated": "2026-09-23T05:37:32.534017"
 }
