@@ -23429,7 +23429,37 @@
       "hindi": "सुबह का पानी, धन्यवाद, मुझे शुरू करने के लिए।",
       "category": "Gratitude",
       "generated_at": "2026-09-26T00:23:23.728436"
+    },
+    {
+      "english": "Hold steady, breathe slow, act anyway",
+      "hindi": "धीरे साँस लो, स्थिर रहो, फिर काम करो",
+      "category": "Strength",
+      "generated_at": "2026-09-26T05:57:18.699521"
+    },
+    {
+      "english": "My fear talks, I choose calm",
+      "hindi": "मेरी डर की आवाज़ है, मैं शांति चुनता हूँ",
+      "category": "Strength",
+      "generated_at": "2026-09-26T05:57:18.699530"
+    },
+    {
+      "english": "I learn, I adjust, I stand taller",
+      "hindi": "मैं सीखता हूँ, मैं बदलता हूँ, मैं ऊँचा रहता हूँ",
+      "category": "Strength",
+      "generated_at": "2026-09-26T05:57:18.699531"
+    },
+    {
+      "english": "Storm outside, focus inside, keep moving",
+      "hindi": "बाहर तूफ़ान है, अंदर ध्यान, चलते रहो",
+      "category": "Strength",
+      "generated_at": "2026-09-26T05:57:18.699532"
+    },
+    {
+      "english": "I carry my doubts, not my weight",
+      "hindi": "मैं अपने शक ढोता हूँ, पर बोझ नहीं",
+      "category": "Strength",
+      "generated_at": "2026-09-26T05:57:18.699533"
     }
   ],
-  "last_updated": "2026-09-26T00:23:23.728437"
+  "last_updated": "2026-09-26T05:57:18.699534"
 }
