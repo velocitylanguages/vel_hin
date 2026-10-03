@@ -24479,7 +24479,37 @@
       "hindi": "मैं फिर कोशिश करता हूँ, हाथ स्थिर रखकर",
       "category": "Courage",
       "generated_at": "2026-10-03T00:57:30.858157"
+    },
+    {
+      "english": "Morning tea, listen to birds, breathe slow",
+      "hindi": "सुबह की चाय, पक्षी सुनो, धीरे साँस लो",
+      "category": "Joy",
+      "generated_at": "2026-10-03T06:10:14.759944"
+    },
+    {
+      "english": "Your keys jingle, find the door, smile",
+      "hindi": "तुम्हारी चाबी छनके, दरवाज़ा ढूँढो, मुस्कुराओ",
+      "category": "Joy",
+      "generated_at": "2026-10-03T06:10:14.759954"
+    },
+    {
+      "english": "Phone rings, pause, then answer kindly",
+      "hindi": "फोन बजे, रुको, फिर प्यार से जवाब दो",
+      "category": "Joy",
+      "generated_at": "2026-10-03T06:10:14.759955"
+    },
+    {
+      "english": "Walk home, watch the street, feel safe",
+      "hindi": "घर लौटो, सड़क देखो, सुरक्षित महसूस करो",
+      "category": "Joy",
+      "generated_at": "2026-10-03T06:10:14.759956"
+    },
+    {
+      "english": "At lunch, chew slowly, drink water, breathe",
+      "hindi": "दोपहर के खाने में, धीरे चबाओ, पानी पियो",
+      "category": "Joy",
+      "generated_at": "2026-10-03T06:10:14.759957"
     }
   ],
-  "last_updated": "2026-10-03T00:57:30.858158"
+  "last_updated": "2026-10-03T06:10:14.759959"
 }
