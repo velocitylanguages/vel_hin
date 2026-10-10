@@ -25469,7 +25469,37 @@
       "hindi": "आज मैं कोशिश करता हूँ, कल बेहतर।",
       "category": "Confidence",
       "generated_at": "2026-10-09T23:07:45.057351"
+    },
+    {
+      "english": "Storms pass, I keep my rhythm.",
+      "hindi": "तूफान गुजरते हैं, मैं अपनी ताल रखता हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T01:32:06.290512"
+    },
+    {
+      "english": "I practice, even when nobody claps.",
+      "hindi": "मैं अभ्यास करता हूँ, जब कोई ताली नहीं बजाता।",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T01:32:06.290527"
+    },
+    {
+      "english": "Morning dust, still I sweep forward.",
+      "hindi": "सुबह की धूल, फिर भी मैं आगे बढ़ता हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T01:32:06.290528"
+    },
+    {
+      "english": "My worries fade, my work stays.",
+      "hindi": "मेरी चिंता घटती है, मेरा काम रहता है।",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T01:32:06.290529"
+    },
+    {
+      "english": "Slow steps, my courage loads daily.",
+      "hindi": "धीमे कदम, मेरा हौसला रोज़ भरता है।",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T01:32:06.290530"
     }
   ],
-  "last_updated": "2026-10-09T23:07:45.057353"
+  "last_updated": "2026-10-10T01:32:06.290532"
 }
