@@ -26189,7 +26189,37 @@
       "hindi": "जबड़ा ढीला करो, आँखें नरम करो, सांस लो।",
       "category": "Balance",
       "generated_at": "2026-10-14T20:01:45.879767"
+    },
+    {
+      "english": "Breathe in, notice the air’s quiet touch",
+      "hindi": "साँस भीतर लो, हवा की नरम छुअन महसूस करो",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-14T22:10:23.864375"
+    },
+    {
+      "english": "Feel your feet, ground yourself, then soften",
+      "hindi": "अपने पैर महसूस करो, खुद को स्थिर करो, फिर नरम हो",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-14T22:10:23.864386"
+    },
+    {
+      "english": "Let thoughts pass, like clouds across daylight",
+      "hindi": "विचारों को जाने दो, दिन की रोशनी पर बादल जैसे",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-14T22:10:23.864388"
+    },
+    {
+      "english": "Listen to the room, hear your own calm",
+      "hindi": "कमरे को सुनो, अपनी शांति सुनो",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-14T22:10:23.864389"
+    },
+    {
+      "english": "Unclench your jaw, release the tight edge",
+      "hindi": "जबड़ा ढीला करो, कसाव की धार छोड़ो",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-14T22:10:23.864390"
     }
   ],
-  "last_updated": "2026-10-14T20:01:45.879769"
+  "last_updated": "2026-10-14T22:10:23.864391"
 }
