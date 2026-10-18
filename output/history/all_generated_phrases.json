@@ -26789,7 +26789,37 @@
       "hindi": "बारिश भी रुकती है, मैं इंतज़ार करता हूँ, उम्मीद सुनती है",
       "category": "Hope",
       "generated_at": "2026-10-18T18:30:01.953619"
+    },
+    {
+      "english": "You text, I smile, that’s friendship.",
+      "hindi": "तुम संदेश भेजो, मैं मुस्काऊँ, यही दोस्ती।",
+      "category": "Friendship",
+      "generated_at": "2026-10-18T21:22:14.864122"
+    },
+    {
+      "english": "We share snacks, time tastes sweet.",
+      "hindi": "हम साथ बाँटें, तो समय मीठा लगता।",
+      "category": "Friendship",
+      "generated_at": "2026-10-18T21:22:14.864131"
+    },
+    {
+      "english": "When plans flop, we laugh together.",
+      "hindi": "जब योजना बिगड़े, हम साथ हँसते हैं।",
+      "category": "Friendship",
+      "generated_at": "2026-10-18T21:22:14.864133"
+    },
+    {
+      "english": "Your call arrives, my worry fades.",
+      "hindi": "तुम्हारी कॉल आए, मेरी टेंशन घट जाए।",
+      "category": "Friendship",
+      "generated_at": "2026-10-18T21:22:14.864134"
+    },
+    {
+      "english": "I borrow courage, you return it.",
+      "hindi": "मैं हिम्मत उधार लूँ, तुम लौटाओ।",
+      "category": "Friendship",
+      "generated_at": "2026-10-18T21:22:14.864135"
     }
   ],
-  "last_updated": "2026-10-18T18:30:01.953621"
+  "last_updated": "2026-10-18T21:22:14.864137"
 }
