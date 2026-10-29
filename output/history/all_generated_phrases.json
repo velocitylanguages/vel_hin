@@ -28019,7 +28019,42 @@
       "generated_at": "2026-10-29T13:33:43.420651",
       "hindi": "पहली रौशनी से पहले, पुरानी गुस्सा ढीला करो।",
       "pronunciation": "pehli roshni se pehle, purani gussa dheela karo."
+    },
+    {
+      "english": "Try again, even if your voice shakes.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T16:57:52.724580",
+      "hindi": "फिर कोशिश करो, जब आवाज़ काँपती हो।",
+      "pronunciation": "phir koshish karo, jab aawaz kaamp ti ho."
+    },
+    {
+      "english": "One more attempt, then breathe, reset.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T16:57:52.724593",
+      "hindi": "एक और कोशिश, फिर सांस लो, रीसेट।",
+      "pronunciation": "ek aur koshish, phir saans lo, reset."
+    },
+    {
+      "english": "Courage sounds like, “let me try.”",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T16:57:52.724597",
+      "hindi": "हिम्मत की आवाज़ होती है, “चलो फिर।”",
+      "pronunciation": "himmat ki awaz hoti hai, “chalo phir.”"
+    },
+    {
+      "english": "Ask, what if this time works?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T16:57:52.724599",
+      "hindi": "सोचो, अगर इस बार चल जाए तो?",
+      "pronunciation": "socho, agar is baar chal jaaye to?"
+    },
+    {
+      "english": "You fall, you rise, you return.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T16:57:52.724600",
+      "hindi": "गिरते हो, उठते हो, फिर लौटते हो।",
+      "pronunciation": "girte ho, uthte ho, phir laut te ho."
     }
   ],
-  "last_updated": "2026-10-29T13:33:43.420653"
+  "last_updated": "2026-10-29T16:57:52.724601"
 }
