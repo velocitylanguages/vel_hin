@@ -28159,7 +28159,42 @@
       "generated_at": "2026-10-30T10:01:25.053450",
       "hindi": "जल्दी नहीं, तब रास्ता भी सुनता है।",
       "pronunciation": "jaldi nahin, tab rasta bhi sunta hai"
+    },
+    {
+      "english": "After sunset, my thoughts soften.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T13:24:17.412627",
+      "hindi": "सूरज ढलते ही, मेरे विचार नरम हो जाते हैं।",
+      "pronunciation": "sooraj dhalte hi, mere vichaar naram ho jaate hain"
+    },
+    {
+      "english": "The quiet holds my mind gently.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T13:24:17.412639",
+      "hindi": "ये ख़ामोशी, मेरे मन को धीरे पकड़े रहती है।",
+      "pronunciation": "ye khaamoshi, mere man ko dheere pakde rehti hai"
+    },
+    {
+      "english": "Dusk ends, footsteps slow down.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T13:24:17.412643",
+      "hindi": "शाम ढलती है, कदम धीरे चलने लगते हैं।",
+      "pronunciation": "shaam dhalti hai, kadam dheere chalne lagte hain"
+    },
+    {
+      "english": "I listen, before speaking in Hindi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T13:24:17.412645",
+      "hindi": "बोलने से पहले, मैं हिंदी सुनता हूँ।",
+      "pronunciation": "bolne se pehle, main hindi sunta hoon"
+    },
+    {
+      "english": "Silence teaches me steady Hindi rhythm.",
+      "category": "Confidence",
+      "generated_at": "2026-10-30T13:24:17.412647",
+      "hindi": "खामोशी मुझे, हिंदी की लय सिखाती है।",
+      "pronunciation": "khaamoshi mujhe, hindi ki lay sikhati hai"
     }
   ],
-  "last_updated": "2026-10-30T10:01:25.053452"
+  "last_updated": "2026-10-30T13:24:17.412649"
 }
