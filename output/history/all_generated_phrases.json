@@ -28614,7 +28614,42 @@
       "generated_at": "2026-11-01T19:04:38.340745",
       "hindi": "तुम साथ हो, तो कमरा भी नरम लगता।",
       "pronunciation": "tum saath ho, to kamra bhi naram lagta"
+    },
+    {
+      "english": "Dusk hush, my mind listens.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T21:25:59.577975",
+      "hindi": "डस्क की चुप्पी, मेरा मन सुनता है।",
+      "pronunciation": "ḍask kī chupī, merā man sunatā hai"
+    },
+    {
+      "english": "Silence teaches, I breathe slower.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T21:25:59.577987",
+      "hindi": "चुप्पी सिखाती, मैं धीरे सांस लेता हूँ।",
+      "pronunciation": "chuppī sikhātī, main dhīre sās letā hū̃"
+    },
+    {
+      "english": "The street quiets, I speak calmly.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T21:25:59.577991",
+      "hindi": "गली शांत, मैं धीरे बोलता हूँ।",
+      "pronunciation": "galī shānt, main dhīre bolatā hū̃"
+    },
+    {
+      "english": "Between dusk and bedtime, I practice.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T21:25:59.577993",
+      "hindi": "डस्क और सोने के बीच, मैं अभ्यास करता हूँ।",
+      "pronunciation": "ḍask aur sone ke bīch, main abhyās kartā hū̃"
+    },
+    {
+      "english": "Nightfall wraps words in safety.",
+      "category": "Confidence",
+      "generated_at": "2026-11-01T21:25:59.577995",
+      "hindi": "रात उतरती, शब्दों को सुकून देती है।",
+      "pronunciation": "rāt utartī, shabdon ko sukūn detī hai"
     }
   ],
-  "last_updated": "2026-11-01T19:04:38.340747"
+  "last_updated": "2026-11-01T21:25:59.577997"
 }
