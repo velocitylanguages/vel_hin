@@ -3,10 +3,6 @@ name: Velocity Hindi - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '15 3 * * *'   # 8:45 AM IST / 11:15 PM EDT
-    - cron: '30 6 * * *'   # 12:00 PM IST / 2:30 AM EDT
-    - cron: '15 10 * * *'  # 3:45 PM IST / 6:15 AM EDT
-    - cron: '30 14 * * *'  # 8:00 PM IST / 10:30 AM EDT
     - cron: '45 17 * * *'  # 11:15 PM IST / 1:45 PM EDT
 
   # Allow manual trigger for testing
