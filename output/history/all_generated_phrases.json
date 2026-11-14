@@ -29769,7 +29769,42 @@
       "transliteration": "Main rukta hoon, aur mera man saaf hota hai.",
       "category": "Confidence",
       "generated_at": "2026-11-14T05:52:34.935146"
+    },
+    {
+      "english": "Keep going, Hindi will follow your effort.",
+      "hindi": "चलते रहो, हिंदी तुम्हारी मेहनत का साथ देगी।",
+      "transliteration": "chalte raho, hindi tumhari mehnat ka saath degi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T17:28:21.842132"
+    },
+    {
+      "english": "Speak once more, you’ll gain confidence today.",
+      "hindi": "एक बार फिर बोलो, आज आत्मविश्वास बढ़ेगा।",
+      "transliteration": "ek baar phir bolo, aaj aatmavishvaas badhega.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T17:28:21.842143"
+    },
+    {
+      "english": "Small practice, big progress, keep it simple.",
+      "hindi": "छोटा अभ्यास, बड़ा सुधार, इसे सरल रखो।",
+      "transliteration": "chhota abhyaas, bada sudhaar, ise saral rakho.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T17:28:21.842145"
+    },
+    {
+      "english": "Mistakes happen, so practice again tomorrow.",
+      "hindi": "गलतियाँ होती हैं, इसलिए कल फिर अभ्यास करो।",
+      "transliteration": "galtiyan hoti hain, isliye kal phir abhyaas karo.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T17:28:21.842147"
+    },
+    {
+      "english": "Pause, breathe, then say your sentence.",
+      "hindi": "रुको, सांस लो, फिर अपना वाक्य बोलो।",
+      "transliteration": "ruko, saans lo, phir apna vaakya bolo.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T17:28:21.842148"
     }
   ],
-  "last_updated": "2026-11-14T05:52:34.935147"
+  "last_updated": "2026-11-14T17:28:21.842150"
 }
