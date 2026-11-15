@@ -29909,7 +29909,42 @@
       "transliteration": "har din, chhoti khushiyon ke liye dhanyavaad",
       "category": "Gratitude",
       "generated_at": "2026-11-14T23:37:14.220897"
+    },
+    {
+      "english": "Please, take your time, I’m listening.",
+      "hindi": "कृपया, अपना समय लें, मैं सुन रहा",
+      "transliteration": "Kripya, apna samay lein, main sun raha/rahi hoon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T05:53:56.052769"
+    },
+    {
+      "english": "I’ll clean up, you can rest.",
+      "hindi": "मैं साफ कर दूँगा",
+      "transliteration": "Main saaf kar dunga/dungi, aap aaram karein.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T05:53:56.052783"
+    },
+    {
+      "english": "Here you go, let’s make it easy.",
+      "hindi": "ये लीजिए, चलिए इसे आसान बनाते हैं।",
+      "transliteration": "Ye lijiye, chaliye ise aasan banate hain.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T05:53:56.052784"
+    },
+    {
+      "english": "It’s okay, you tried your best.",
+      "hindi": "कोई बात नहीं, आपने अपना पूरा प्रयास किया।",
+      "transliteration": "Koi baat nahin, aapne apna poora prayas kiya.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T05:53:56.052785"
+    },
+    {
+      "english": "You did well, I’m proud of you.",
+      "hindi": "आपने अच्छा किया, मुझे आप पर गर्व है।",
+      "transliteration": "Aapne achha kiya, mujhe aap par garv hai.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T05:53:56.052786"
     }
   ],
-  "last_updated": "2026-11-14T23:37:14.220899"
+  "last_updated": "2026-11-15T05:53:56.052788"
 }
