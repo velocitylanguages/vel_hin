@@ -30224,7 +30224,42 @@
       "transliteration": "Main phir se, dheere-dheere, koshish karta hoon.",
       "category": "Perseverance",
       "generated_at": "2026-11-17T00:43:04.183029"
+    },
+    {
+      "english": "Inhale, and soften your jaw now.",
+      "hindi": "साँस लो, और अभी अपना जबड़ा नरम करो।",
+      "transliteration": "saans lo, aur abhi apna jabda naram karo",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-17T02:46:03.747934"
+    },
+    {
+      "english": "Exhale slowly, let your shoulders release.",
+      "hindi": "धीरे साँस छोड़ो, और अपने कंधे ढीले छोड़ो।",
+      "transliteration": "dheere saans chhodo, aur apne kandhe dheele chhodo",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-17T02:46:03.747945"
+    },
+    {
+      "english": "Feel your feet, steady on the floor.",
+      "hindi": "अपने पैर महसूस करो, फ़र्श पर स्थिर।",
+      "transliteration": "apne pair mehsoos karo, farsh par sthir",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-17T02:46:03.747946"
+    },
+    {
+      "english": "Name the feeling, gently, and continue.",
+      "hindi": "भाव का नाम लो, धीरे से, और आगे बढ़ो।",
+      "transliteration": "bhav ka naam lo, dheere se, aur aage badho",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-17T02:46:03.747947"
+    },
+    {
+      "english": "Notice sounds, without grabbing them.",
+      "hindi": "आवाज़ों को नोटिस करो, उन्हें पकड़ो मत।",
+      "transliteration": "aawazon ko notice karo, unhe pakdo mat",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-17T02:46:03.747948"
     }
   ],
-  "last_updated": "2026-11-17T00:43:04.183031"
+  "last_updated": "2026-11-17T02:46:03.747949"
 }
