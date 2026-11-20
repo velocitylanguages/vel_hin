@@ -30889,7 +30889,42 @@
       "transliteration": "Aaj, main apni Hindi abhyas par bharosa karta hoon.",
       "category": "Confidence",
       "generated_at": "2026-11-20T21:43:04.308398"
+    },
+    {
+      "english": "I stumble, then I start again.",
+      "hindi": "मैं लड़खड़ाता हूँ, फिर फिर शुरू करता हूँ।",
+      "transliteration": "Main ladkhadaata hoon, phir phir shuru karta hoon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T22:59:52.466279"
+    },
+    {
+      "english": "No strength today, still I show up.",
+      "hindi": "आज ताकत नहीं, फिर भी मैं आता हूँ।",
+      "transliteration": "Aaj taakat nahin, phir bhi main aata hoon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T22:59:52.466293"
+    },
+    {
+      "english": "I keep walking, even with heavy thoughts.",
+      "hindi": "मैं चलता रहता हूँ, भारी ख्यालों के साथ भी।",
+      "transliteration": "Main chalta rehta hoon, bhaari khayaalon ke saath bhi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T22:59:52.466295"
+    },
+    {
+      "english": "Pause is okay, quitting is not.",
+      "hindi": "रुकना ठीक है, हार मानना नहीं।",
+      "transliteration": "Rukna theek hai, haar maanna nahin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T22:59:52.466297"
+    },
+    {
+      "english": "I tighten my grip, and continue.",
+      "hindi": "मैं पकड़ मजबूत करता हूँ, और आगे बढ़ता हूँ।",
+      "transliteration": "Main pakad majboot karta hoon, aur aage badhta hoon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T22:59:52.466299"
     }
   ],
-  "last_updated": "2026-11-20T21:43:04.308401"
+  "last_updated": "2026-11-20T22:59:52.466301"
 }
