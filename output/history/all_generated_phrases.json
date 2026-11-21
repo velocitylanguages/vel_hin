@@ -30959,7 +30959,42 @@
       "transliteration": "aatmvishvaas badhta hai, har chhote prayaas se.",
       "category": "Motivation",
       "generated_at": "2026-11-21T01:05:15.210852"
+    },
+    {
+      "english": "Please help me, I’ll try too.",
+      "hindi": "कृपया मदद करें, मैं भी कोशिश करूँगा।",
+      "transliteration": "Kripya madad karein, main bhi koshish karunga.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T06:39:40.314448"
+    },
+    {
+      "english": "I’ll wait, take your time, please.",
+      "hindi": "मैं इंतज़ार करूँगा, अपना समय लें।",
+      "transliteration": "Main intezaar karunga, apna samay lein.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T06:39:40.314475"
+    },
+    {
+      "english": "You can go first, no rush.",
+      "hindi": "आप पहले जाइए, जल्दी नहीं है।",
+      "transliteration": "Aap pehle jaiye, jaldi nahin hai.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T06:39:40.314477"
+    },
+    {
+      "english": "Here, you dropped this—careful.",
+      "hindi": "यह लीजिए, आपसे गिर गया था।",
+      "transliteration": "Yeh lijiye, aapse gir gaya tha.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T06:39:40.314479"
+    },
+    {
+      "english": "I’m listening, tell me what happened.",
+      "hindi": "मैं सुन रहा हूँ, बताइए क्या हुआ।",
+      "transliteration": "Main sun raha hoon, batayiye kya hua.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T06:39:40.314481"
     }
   ],
-  "last_updated": "2026-11-21T01:05:15.210855"
+  "last_updated": "2026-11-21T06:39:40.314483"
 }
