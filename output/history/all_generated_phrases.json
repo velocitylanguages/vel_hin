@@ -31344,7 +31344,42 @@
       "transliteration": "Main apne pairon ko dhanyavaad deta hoon, mujhe le chalte hain.",
       "category": "Joy",
       "generated_at": "2026-11-23T07:00:55.460384"
+    },
+    {
+      "english": "I can do this, with practice.",
+      "hindi": "मैं कर सकता हूँ, बस अभ्यास के साथ।",
+      "transliteration": "Main kar sakta hoon, bas abhyas ke saath.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T23:03:09.926103"
+    },
+    {
+      "english": "Trust yourself, you’re learning real Hindi.",
+      "hindi": "अपने आप पर भरोसा करो, तुम असली हिंदी सीख रहे हो।",
+      "transliteration": "Apne aap par bharosa karo, tum asli Hindi seekh rahe ho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T23:03:09.926122"
+    },
+    {
+      "english": "Say it once, then try again.",
+      "hindi": "एक बार बोलो, फिर दोबारा कोशिश करो।",
+      "transliteration": "Ek baar bolo, phir dobara koshish karo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T23:03:09.926125"
+    },
+    {
+      "english": "I’ll speak slowly, it’s totally fine.",
+      "hindi": "मैं धीरे बोलूँगा, बिल्कुल ठीक है।",
+      "transliteration": "Main dheere bolunga, bilkul theek hai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T23:03:09.926126"
+    },
+    {
+      "english": "My words will come, step by step.",
+      "hindi": "मेरे शब्द आएँगे, धीरे-धीरे।",
+      "transliteration": "Mere shabd aayenge, dheere-dheere.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T23:03:09.926128"
     }
   ],
-  "last_updated": "2026-11-23T07:00:55.460386"
+  "last_updated": "2026-11-23T23:03:09.926130"
 }
