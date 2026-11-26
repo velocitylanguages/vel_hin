@@ -31834,7 +31834,42 @@
       "transliteration": "ek kona saaf karo, dimaag bhi saaf hoga",
       "category": "Purpose",
       "generated_at": "2026-11-26T02:38:19.805183"
+    },
+    {
+      "english": "Before reacting, feel your breath settle.",
+      "hindi": "प्रतिक्रिया देने से पहले, साँस को बसने दें।",
+      "transliteration": "pratikriya dene se pehle, saans ko basne dein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T07:49:43.254396"
+    },
+    {
+      "english": "Relax your face, feel attention return.",
+      "hindi": "चेहरा ढीला करें, ध्यान लौटने दें।",
+      "transliteration": "chehra dheela karein, dhyaan lautne dein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T07:49:43.254410"
+    },
+    {
+      "english": "Let the mind wander, gently guide back.",
+      "hindi": "मन भटके, धीरे से वापस लाएँ।",
+      "transliteration": "mann bhatke, dheere se vapas laaen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T07:49:43.254412"
+    },
+    {
+      "english": "Feel the moment, not the noise.",
+      "hindi": "इस पल को महसूस करें, शोर को नहीं।",
+      "transliteration": "is pal ko mehsoos karein, shor ko nahin.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T07:49:43.254413"
+    },
+    {
+      "english": "Notice three sounds, then breathe.",
+      "hindi": "तीन आवाज़ें नोटिस करें, फिर साँस लें।",
+      "transliteration": "teen aawaazein notis karein, phir saans lein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T07:49:43.254415"
     }
   ],
-  "last_updated": "2026-11-26T02:38:19.805185"
+  "last_updated": "2026-11-26T07:49:43.254417"
 }
