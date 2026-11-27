@@ -31939,7 +31939,28 @@
       "transliteration": "aaj par dhyan do, safalta chupchaap aati hai.",
       "category": "Success",
       "generated_at": "2026-11-26T22:51:25.738854"
+    },
+    {
+      "english": "You’re doing great, keep going.",
+      "hindi": "तुम अच्छा कर रहे हो, आगे बढ़ो।",
+      "transliteration": "Tum achchha kar rahe ho, aage badho",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T11:44:52.080685"
+    },
+    {
+      "english": "It’s okay, we’ll manage together.",
+      "hindi": "कोई बात नहीं, हम साथ मिलकर कर लेंगे।",
+      "transliteration": "Koi baat nahin, hum saath milkar kar lenge",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T11:44:52.080702"
+    },
+    {
+      "english": "Thanks for being patient with me.",
+      "hindi": "मेरे साथ धैर्य रखने के लिए धन्यवाद।",
+      "transliteration": "Mere saath dhairya rakhne ke liye dhanyavaad",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T11:44:52.080703"
     }
   ],
-  "last_updated": "2026-11-26T22:51:25.738856"
+  "last_updated": "2026-11-27T11:44:52.080706"
 }
