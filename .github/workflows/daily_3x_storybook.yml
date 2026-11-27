@@ -2,9 +2,9 @@ name: Velocity Hindi - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:42 * * *'
-    - cron: '08:42 * * *'
-    - cron: '16:42 * * *'
+    - cron: '42 0 * * *'
+    - cron: '42 8 * * *'
+    - cron: '42 16 * * *'
   workflow_dispatch:
     inputs:
       category:
