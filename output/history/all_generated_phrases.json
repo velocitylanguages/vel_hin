@@ -31960,7 +31960,28 @@
       "transliteration": "Mere saath dhairya rakhne ke liye dhanyavaad",
       "category": "Kindness",
       "generated_at": "2026-11-27T11:44:52.080703"
+    },
+    {
+      "english": "Say it slowly, I’ll understand you.",
+      "hindi": "धीरे बोलिए, मैं समझ जाऊँगा।",
+      "transliteration": "Dhīre bolīe, main samajh jāūṅgā",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:17:33.893692"
+    },
+    {
+      "english": "Where is the station, please?",
+      "hindi": "स्टेशन कहाँ है, कृपया बताइए।",
+      "transliteration": "Sṭeśan kahā̃ hai, kṛpayā batāiē",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:17:33.893710"
+    },
+    {
+      "english": "How much does this cost?",
+      "hindi": "इसकी कीमत कितनी है?",
+      "transliteration": "Iskī kīmat kitnī hai",
+      "category": "Growth",
+      "generated_at": "2026-11-27T19:17:33.893711"
     }
   ],
-  "last_updated": "2026-11-27T11:44:52.080706"
+  "last_updated": "2026-11-27T19:17:33.893713"
 }
